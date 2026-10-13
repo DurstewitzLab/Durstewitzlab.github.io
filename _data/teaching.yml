@@ -20,7 +20,7 @@
   moodle: https://moodle.uni-heidelberg.de/course/view.php?id=32050
 
 - title: Dynamical Systems Theory in Machine Learning
-  latest_iteration: Winter Term 2025/26
+  latest_iteration: Winter Term 2026/27
   image: ""
   summary: >
     Dynamical systems theory provides a mathematical framework for understanding processes that evolve in time,
@@ -40,7 +40,7 @@
     - Neural ODEs, PINNs, and neural operators
     - Manifold detection, multimodal training, and tracking across tipping points
     - Out-of-domain generalization and foundation models for DS reconstruction
-  moodle: https://moodle.uni-heidelberg.de/course/view.php?id=29124
+  moodle: https://moodle.uni-heidelberg.de/course/view.php?id=34120
 
 - title: "Time Series Models: From Statistics to AI"
   latest_iteration: Summer Term 2025
