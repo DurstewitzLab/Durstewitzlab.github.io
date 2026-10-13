@@ -11,12 +11,8 @@
 - name: Florian Hess
   role: PhD Candidate
 
-- name: Lukas Eisenmann
-  role: PhD Candidate
-  portrait:
-    path: assets/images/team/lukas_eisenmann.jpg
-    x: 50
-    y: 15
+- name: Dr. Lukas Eisenmann
+  role: Alumni
 
 - name: Alena Brändle
   role: PhD Candidate
