@@ -65,18 +65,6 @@
 - name: Niklas Thorsson
   role: Master Student
 
-- name: Jakob Kreft
-  role: Master Student
-
-- name: Maximilian Rumpf
-  role: Master Student
-
-- name: Erik Burs
-  role: Master Student
-  portrait:
-    path: assets/images/team/erik_burs.jpg
-    y: 10
-
 - name: Sam Rouppe van der Voort
   role: Master Student
 
